@@ -10,4 +10,5 @@ A material repository for the SWJTU-OSU (Southwest Jiaotong University and Oklah
 有任何问题可以在Issues反映~
 
 公共课请参考：https://github.com/swjtuhub/SWJTU-Courses/
-隔壁的消防工程专业请移步：https://github.com/Xinyu01091002/SWJTU-OSU-Fire-Protection-Joint-Program/
+
+隔壁的安全工程专业请移步：https://github.com/Xinyu01091002/SWJTU-OSU-Fire-Protection-Joint-Program/
